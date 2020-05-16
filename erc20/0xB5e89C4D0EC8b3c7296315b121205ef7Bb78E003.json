@@ -1,0 +1,16 @@
+{
+    "symbol": "HXBM",
+	"address": "0xB5e89C4D0EC8b3c7296315b121205ef7Bb78E003",
+    "account_name": "tonyyonghu",
+    "overview": {
+        "en": "Better green, energy-saving, environmental protection hard disk mining public chain, change cryptocurrency production mode.",
+        "zh": "更好的绿色、节能、环保硬盘挖矿公链，改变加密货币生产方式。"
+    },
+    "email": "service@ferghanahorse.energyshellfish.org",
+    "website": "http://ferghanahorse.energyshellfish.org/",
+    "whitepaper": "http://ferghanahorse.energyshellfish.org/HXBM1.2.pdf",
+    "published_on": "2020-05-01",
+    "initial_price": {
+        "USD": "0.1 USD"
+    }
+}
